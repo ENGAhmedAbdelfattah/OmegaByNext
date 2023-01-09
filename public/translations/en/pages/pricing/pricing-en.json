@@ -1,0 +1,39 @@
+{
+  "pricingPage": {
+    "landing": {
+      "header": "Flexible pricing plans for you",
+      "paragraph": "Pricing that scales with your business immediately."
+    },
+    "asks": {
+      "header": "Frequently Asked Questions",
+      "paragraph": "",
+      "items": [
+        {
+          "id": "item1",
+          "ask": "What is Omega Streaming?",
+          "answer": "Omega is a very simple serverless on-demand video streaming service, that enables you to Upload, store, encode and deliver live and on-demand video with one API easily and with the latest technology."
+        },
+        {
+          "id": "item2",
+          "ask": "How can I trust you?",
+          "answer": "Omega is using its own storage servers that is not accessible by no 3rd party service or person. Your videos are secured on our service and only accessible by you."
+        },
+        {
+          "id": "item3",
+          "ask": "How can I watch my videos?",
+          "answer": "Omega provides an embedded web player that requires zero engineering work to use, and lets you integrate with any web or native iOS or Android video player that supports HLS or DASH."
+        },
+        {
+          "id": "item4",
+          "ask": "How do I cancel?",
+          "answer": "Omega is flexible. There are no pesky contracts and no commitments. You can easily cancel your account online in two clicks. There are no cancellation fees – start or stop your account anytime."
+        },
+        {
+          "id": "item5",
+          "ask": "How can we get in touch?",
+          "answer": "You can contact us easily via Email, Live chat, WhatsApp, or Phone."
+        }
+      ]
+    }
+  }
+}

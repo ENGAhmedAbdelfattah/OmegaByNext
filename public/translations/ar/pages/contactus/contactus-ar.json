@@ -1,0 +1,35 @@
+{
+  "contactsPage": {
+    "contactLanding": {
+      "header": "اتصل بنا إذا كان لديك أي مشكلة أو فكرة لمشاركتها معنا",
+      "paragraph": "يمكنك معرفة المزيد عنا وعن أعمالنا ، فنحن نكتب بريدك الإلكتروني ونرسل لنا رسالة."
+    },
+    "contactItems": [
+      {
+        "id": "contactItem1",
+        "itemHeader": "هاتف",
+        "contactAddress": "+20105 252 5525"
+      },
+      {
+        "id": "contactItem2",
+        "itemHeader": "بريد جوجل",
+        "contactAddress": "info@omegastream.net"
+      },
+      {
+        "id": "contactItem3",
+        "itemHeader": "واتساب",
+        "contactAddress": "+20 155 154 5973 /  +20 109 661 3959"
+      }
+    ],
+    "contactForm": {
+      "fromHeader": "أو املأ هذا النموذج",
+      "fromParagraph": "يمكنك معرفة المزيد عنا وعن أعمالنا ، فنحن نكتب بريدك الإلكتروني ونرسل لنا رسالة.",
+      "fromPlaceholder": {
+        "name": "أدخل أسمك",
+        "email": "أدخل بريدك الإلكتروني",
+        "message": "رسالتك هنا"
+      },
+      "fromBtn": "أرسل رسالة"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "navBar": {
+    "lang": "عربي",
+    "navList": [
+      "Home",
+      "Pricing",
+      "Contact Us",
+      "About Us"
+    ],
+    "login": "Login",
+    "signUp": "Sign Up"
+  }
+}

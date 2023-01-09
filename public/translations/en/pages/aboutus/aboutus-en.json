@@ -1,0 +1,20 @@
+{
+  "aboutUs": {
+    "header": "About Us",
+    "paragraph": "We Help To Get Solutions",
+    "card": {
+      "header": "We Help To Get Solutions",
+      "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "items": {
+        "item1": {
+          "header": "Our Mission",
+          "paragraph": "we help you to upload your video & process it."
+        },
+        "item2": {
+          "header": "introduce solutions",
+          "paragraph": "we have solutions in all kinds of problems."
+        }
+      }
+    }
+  }
+}
