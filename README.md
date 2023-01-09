@@ -2,7 +2,7 @@
 
 Omega is the project for Upload your videos. Streaming made easy create by next.js.
 
-- the site puplish on: [open Omega](https://capable-conkies-4bf443.netlify.app/)
+- the site puplish on: [open Omega](https://omega-by-next.vercel.app/)
 
 ## 📝 Papar Information
 
